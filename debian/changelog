@@ -1,0 +1,9 @@
+ros-indigo-ros-statistics-msgs (0.1.0-0saucy) saucy; urgency=high
+
+  * Uses Apache 2.0 license
+  * Initial release of HostStatistics and NodeStatistics
+  * Contributors: William Woodall, dan brooks
+
+ -- Dan Brooks <dan@osrfoundation.org>  Mon, 18 Aug 2014 07:00:00 -0000
+
+
